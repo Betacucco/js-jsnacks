@@ -1,4 +1,3 @@
-
 let arrayDiNumeri = [];
 let numeroDaInserire;
 
@@ -9,7 +8,6 @@ for(let i = 0; i < 10; i++){
 console.log(arrayDiNumeri);
 
 let risultato = sommmaNumeri(arrayDiNumeri);
-
 
 function sommmaNumeri(arrayDiNumeri){
     let somma = 0;
